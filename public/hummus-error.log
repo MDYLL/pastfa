@@ -1,0 +1,3 @@
+[ 01/07/2019 22:17:32 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 36 was not registered as written. probably means it was not written
+[ 01/07/2019 22:17:32 ] PDFWriter::EndPDF, Could not end PDF
+[ 02/07/2019 10:52:21 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - /download/output.pdf
